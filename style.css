@@ -1,4 +1,24 @@
-head {
-    
+body {
+  background-color: darkgreen;
+}
+
+#imagem de fundo {
+    height: max-content;
+    width: max-content;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+
+h1{
+ color: white;
+ text-align: center;
+ font-size: 70px;
+}
+
+h3 {
+ color: white;
+ text-align: center;
+ font-size: 40px;
 
 }
