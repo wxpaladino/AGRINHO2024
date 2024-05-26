@@ -2,11 +2,6 @@ body {
   background-color: lightgreen;
 }
 
-#imagem de fundo inicial {
-    width: 1440px;
-    height: 860px;
-    top: 120px;
-}
 
 
 h1{
@@ -24,9 +19,9 @@ h3 {
 }
 
 h4{
-  color: goldenrod;
+  color: darkseagreen;
   text-align: center;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: fantasy;
   font-size: 30px;
 }
 

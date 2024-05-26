@@ -5,9 +5,7 @@ button {
     font-family: inherit;
     color: white;
     font-size: 30px;
-    border-radius: 0%;
-    border: none;
-    background-color: lightblue;
+    background-color: rgb(14, 169, 221);
     cursor: pointer;
     transition: transform 200ms ease-in-out;
 }
