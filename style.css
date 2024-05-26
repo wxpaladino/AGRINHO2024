@@ -2,18 +2,18 @@ body {
   background-color: lightgreen;
 }
 
-#imagem de fundo {
-    height: max-content;
-    width: max-content;
-    padding-left: 0%;
-    padding-right: 0%;
+#imagem de fundo inicial {
+    width: 1440px;
+    height: 860px;
+    top: 120px;
 }
 
 
 h1{
  color: white;
  text-align: center;
- font-size: 70px;
+ font-family: cursive;
+ font-size: 80px;
 }
 
 h3 {
@@ -24,7 +24,9 @@ h3 {
 }
 
 h4{
-  color: darkolivegreen;
+  color: goldenrod;
   text-align: center;
-  font-style: italic;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
 }
+
