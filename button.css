@@ -1,0 +1,17 @@
+button {
+    width: 115px;
+    height: 29px;
+    top: 51px;
+    font-family: inherit;
+    color: white;
+    font-size: 30px;
+    border-radius: 0%;
+    border: none;
+    background-color: lightblue;
+    cursor: pointer;
+    transition: transform 200ms ease-in-out;
+}
+
+button: :hover {
+    transform: scale(0.5);
+}
