@@ -1,5 +1,7 @@
-body {
-  background-color: lightgreen;
+imagem de fundo inicial {
+  width: 1440px;
+  height: 860px;
+  top: 120px;
 }
 
 
@@ -21,7 +23,7 @@ h3 {
 h4{
   color: darkseagreen;
   text-align: center;
-  font-family: fantasy;
+  font-family: inherit;
   font-size: 30px;
 }
 
