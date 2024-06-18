@@ -23,3 +23,14 @@ body {
   background-color: lightgreen;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background: url(img/imagem\ de\ fundo\ inicial.jpeg)no-repeat center center;
+  background-size: cover;
+  height: 92vh;
+}
+
