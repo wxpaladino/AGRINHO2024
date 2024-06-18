@@ -44,3 +44,29 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   color: blue;
 }
+
+.menu .menu-fakestrigger {
+  position: absolute;
+  z-index: 1000;
+  width: 35px;
+  height: 35px;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.menu .menu-lines {
+  position: absolute;
+  z-index: 999;
+  width: 35px;
+  height: 35px;
+}
+
+.menu .menu-lines span {
+  display: block;
+  width: 35px;
+  height: 5px;
+  margin-bottom: 10px;
+  background-color: aliceblue;
+  border-radius: 3px;
+
+}
