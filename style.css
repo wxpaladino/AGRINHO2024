@@ -34,3 +34,24 @@ main {
   height: 92vh;
 }
 
+.lista-menu {
+  display: none;
+}
+
+.container__botao:checked ~ .lista-menu {
+    display: block;
+}
+
+.cabeçalho {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.lista-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+}
