@@ -54,6 +54,10 @@ body {
   cursor: pointer;
 }
 
+.menu-lines {
+  color: black;
+}
+
 .menu .menu-lines {
   color: red;
   position: absolute;
