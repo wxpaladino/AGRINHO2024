@@ -1,26 +1,40 @@
+:root {
+  --verde: #096e25;
+  --azulescuro: #1032de;
+  --branco: #fff;
+  --background-color: #78b364;
+  --ciano: #4cc1d9;
+  --preto: #1f1f1f;
+}
+
+
+
+
+
+
 h1{
- color: green;
+ color: var(--verde) ;
  text-align: center;
  font-family: cursive;
  font-size: 80px;
 }
 
 h3 {
- color: rgba(48, 128, 240, 0.781);
+ color: var(--azulescuro);
  text-align: center;
  font-size: 40px;
 
 }
 
 h4{
-  color: whitesmoke ;
+  color: var(--branco);
   text-align: center;
   font-family: inherit;
   font-size: 30px;
 }
 
 body {
-  background-color: lightgreen;
+  background-color: var(--background-color);
 }
 
 * {
@@ -34,7 +48,7 @@ a {
 }
 
 .header {
-  background: lightseagreen;
+  background: var(--ciano);
   padding-inline: 16px;
 }
 
@@ -71,7 +85,7 @@ a {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: lightskyblue;
+    background: var(--ciano);
     clip-path: circle(100px at 90% -15%);
     transition: 1s ease-out;
     flex-direction: column;
@@ -98,6 +112,6 @@ footer {
   flex-shrink: 0;
   padding-top: 5px;
   text-align: center;
-  color: black;
-  background-color: lightseagreen;
+  color: var(--preto);
+  background-color: var(--ciano);
 }
