@@ -5,13 +5,12 @@
   --background-color: #78b364;
   --ciano: #4cc1d9;
   --preto: #1f1f1f;
-  --fonte-maior: "cursive";
 }
 
 h1{
  color: var(--verde);
  text-align: center;
- font-family: var(--fonte-maior);
+ font-family: "Cedarville Cursive", cursive;
  font-size: 80px;
 }
 
