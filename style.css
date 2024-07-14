@@ -5,6 +5,7 @@
   --background-color: #78b364;
   --ciano: #4cc1d9;
   --preto: #1f1f1f;
+  --amarelo: #e8c741;
 }
 
 h1{
@@ -57,7 +58,7 @@ a {
 }
 
 .cabeçalho {
-  background-color: var(--branco);
+  background-color: var(--ciano);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -87,16 +88,16 @@ a {
 .lista-menu__titulo,
 .lista-menu__item {
   padding: 1em;
-  background-color: var(--branco);
+  background-color: var(--background-color);
 }
 
 .lista-menu__titulo {
-  color: var(--verde);
+  color: var(--amarelo);
   font-weight: 700;
 }
 
 .lista-menu__link {
-  background: var(--azulescuro);
+  background: var(--verde);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
