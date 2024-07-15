@@ -49,6 +49,14 @@ a {
   padding-inline: 16px;
 }
 
+.titulo {
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: var(--branco);
+}
+
 .cabeçalho__menu-hamburguer {
   width: 24px;
   height: 24px;
