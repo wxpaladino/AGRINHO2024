@@ -42,21 +42,11 @@ body {
 a {
   font-family: sans-serif;
   text-decoration: none;
-  text-align: center;
-  align-items: center;
 }
 
 .header {
   background: var(--ciano);
   padding-inline: 16px;
-}
-
-nav {
-  display: flex;
-  justify-content: space-around;
-  align-items: center; 
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: var(--azulclaro);
 }
 
 .cabeçalho__menu-hamburguer {
