@@ -49,15 +49,6 @@ a {
   padding-inline: 16px;
 }
 
-.titulo {
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: 4px;
-  font-family:Arial, Helvetica, sans-serif;
-  color: var(--branco);
-  text-align: center;
-}
-
 .cabeçalho__menu-hamburguer {
   width: 24px;
   height: 24px;
