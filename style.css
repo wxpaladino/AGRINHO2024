@@ -49,11 +49,12 @@ a {
   padding-inline: 16px;
 }
 
-h6 {
+.titulo {
   font-size: 10px;
-  text-align: center;
-  color: var(--preto);
   font-family: Arial, Helvetica, sans-serif;
+  color: var(--preto);
+  list-style: none;
+  display: flex;
 }
 
 .cabeçalho__menu-hamburguer {
