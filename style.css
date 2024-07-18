@@ -53,8 +53,8 @@ nav {
   background: var(--azulclaro);
   padding-inline: 20px;
   align-items: center;
-  text-align: center;
   color: var(--preto);
+  position: relative;
 }
 
 .cabeçalho__menu-hamburguer {
