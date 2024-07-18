@@ -30,6 +30,13 @@ h4{
   font-size: 30px;
 }
 
+button {
+  width: 24px;
+  height: 24px;
+  background-color: var(--azulclaro);
+  color: var(--preto);
+}
+
 body {
   background-color: var(--background-color);
 }
