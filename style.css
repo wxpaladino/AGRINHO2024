@@ -49,6 +49,13 @@ a {
   padding-inline: 16px;
 }
 
+h5 {
+  width: 10px;
+  height: 24px;
+  color: var(--branco);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .cabeçalho__menu-hamburguer {
   width: 24px;
   height: 24px;
@@ -63,7 +70,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: relative;
+  position: absolute;
 }
 
 .container {
