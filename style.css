@@ -49,17 +49,12 @@ a {
   padding-inline: 16px;
 }
 
-nav {
-  background: var(--azulclaro);
-  padding-inline: 20px;
-  align-items: end;
-}
-
-h6 {
+button {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  background-color: var(--azulclaro);
   color: var(--preto);
-  position: absolute;
-  font-style: italic;
-  text-align: end;
 }
 
 .cabeçalho__menu-hamburguer {
