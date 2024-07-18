@@ -54,6 +54,7 @@ h5 {
   height: 24px;
   color: var(--branco);
   font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 
 .cabeçalho__menu-hamburguer {
@@ -68,9 +69,7 @@ h5 {
 .cabeçalho {
   background-color: var(--azulescuro);
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: absolute;
+  position: relative;
 }
 
 .container {
