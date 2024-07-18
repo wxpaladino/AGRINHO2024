@@ -49,13 +49,6 @@ a {
   padding-inline: 16px;
 }
 
-button {
-  width: 19px;
-  height: 24px;
-  background-color: var(--azulclaro);
-  color: var(--preto);
-}
-
 .cabeçalho__menu-hamburguer {
   width: 24px;
   height: 24px;
