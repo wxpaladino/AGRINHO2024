@@ -33,6 +33,7 @@ h4{
 button {
   width: 24px;
   height: 24px;
+  background-size: cover;
   background-color: var(--azulclaro);
   color: var(--preto);
 }
@@ -75,8 +76,9 @@ h5 {
 
 .cabeçalho {
   background-color: var(--azulescuro);
-  align-items: center;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
   position: relative;
 }
 
