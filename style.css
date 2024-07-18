@@ -52,9 +52,14 @@ a {
 nav {
   background: var(--azulclaro);
   padding-inline: 20px;
-  align-items: center;
+  align-items: end;
+}
+
+h6 {
   color: var(--preto);
-  position: relative;
+  position: absolute;
+  font-style: italic;
+  text-align: end;
 }
 
 .cabeçalho__menu-hamburguer {
