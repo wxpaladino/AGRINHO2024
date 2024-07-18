@@ -49,11 +49,17 @@ a {
   padding-inline: 16px;
 }
 
+button {
+  width: 23px;
+  height: 23px;
+  background-color: var(--azulclaro);
+  color: var(--preto);
+}
+
 .cabeçalho__menu-hamburguer {
   width: 24px;
   height: 24px;
   display: inline-block;
-  background-image: url("img/menuhamburger.png");
   background-repeat: no-repeat;
   background-position: center;
 }
