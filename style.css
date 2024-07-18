@@ -50,8 +50,8 @@ a {
 }
 
 button {
-  width: 23px;
-  height: 23px;
+  width: 19px;
+  height: 24px;
   background-color: var(--azulclaro);
   color: var(--preto);
 }
@@ -60,6 +60,7 @@ button {
   width: 24px;
   height: 24px;
   display: inline-block;
+  background-image: url("img/menuhamburger.png");
   background-repeat: no-repeat;
   background-position: center;
 }
