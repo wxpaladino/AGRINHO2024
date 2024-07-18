@@ -49,6 +49,14 @@ a {
   padding-inline: 16px;
 }
 
+nav {
+  background: var(--azulclaro);
+  padding-inline: 20px;
+  align-items: center;
+  text-align: center;
+  color: var(--preto);
+}
+
 .cabeçalho__menu-hamburguer {
   width: 24px;
   height: 24px;
