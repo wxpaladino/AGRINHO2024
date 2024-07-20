@@ -84,7 +84,7 @@ h5 {
 
 .cabeçalho {
   background-color: var(--azulescuro);
-  display: flex;
+  display: inline;
   position: relative;
 }
 
