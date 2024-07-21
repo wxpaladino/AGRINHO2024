@@ -23,11 +23,11 @@ h3 {
 
 }
 
-h4{
-  color: var(--branco);
+h4 {
+  color: var(--preto);
   text-align: center;
   font-family: inherit;
-  font-size: 30px;
+  font-size: 12px;
 }
 
 button {
