@@ -36,7 +36,7 @@ button {
   display: block;
   border: none;
   font-family: inherit;
-  font-size: 20px;
+  font-size: 15px;
   background-size: contain;
   background-color: var(--azulclaro);
   color: var(--preto);
@@ -84,7 +84,9 @@ h5 {
 
 .cabeçalho {
   background-color: var(--azulescuro);
-  display: inline-block;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   position: relative;
 }
 
