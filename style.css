@@ -31,8 +31,8 @@ h4 {
 }
 
 button {
-  width: 60px;
-  height: 60px;
+  width: 40vh;
+  height: 40vh;
   display: block;
   border: none;
   font-family: inherit;
