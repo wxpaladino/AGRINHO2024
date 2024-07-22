@@ -32,7 +32,7 @@ h4 {
 
 button {
   width: 40vh;
-  height: 40vh;
+  height: 24vh;
   display: block;
   border: none;
   font-family: inherit;
@@ -69,7 +69,7 @@ a {
   width: 24px;
   height: 24px;
   display: inline-block;
-  background-image: url("img/menu\ button.png");
+  background-image: url("img/menuhamburgerbutton.png");
   background-repeat: no-repeat;
   background-position: center;
 }
