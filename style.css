@@ -139,3 +139,21 @@ footer {
   color: var(--preto);
   background-color: var(--azulclaro);
 }
+
+.main-information {
+  height: calc(100vh - 70px);
+  background-color: var(--azulclaro);
+}
+
+h5 {
+  font-size: 30px;
+  color: var(--preto);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+  color: var(--verde);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 300px;
+}
+
