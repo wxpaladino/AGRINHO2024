@@ -136,8 +136,8 @@ footer {
   flex-shrink: 0;
   padding-top: 5px;
   text-align: center;
-  color: var(--preto);
-  background-color: var(--azulclaro);
+  color: var(--branco);
+  background-color: var(--azulescuro);
 }
 
 .main-information {
@@ -152,8 +152,9 @@ h5 {
 }
 
 p {
-  color: var(--verde);
+  color: var(--azulescuro);
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
   font-weight: 300px;
 }
 
