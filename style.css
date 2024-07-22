@@ -140,7 +140,7 @@ footer {
   background-color: var(--azulescuro);
 }
 
-.main-information, .main-performance, .main-contributions {
+.main-information, .main-performance, .main-contributions, .main-education {
   height: calc(100vh - 70px);
   background-color: var(--azulclaro);
 }
