@@ -30,22 +30,6 @@ h4 {
   font-size: 35px;
 }
 
-button {
-  width: 15vh;
-  height: 15vh;
-  display: block;
-  border: none;
-  font-family: inherit;
-  font-size: 15px;
-  background-size: contain;
-  background-color: var(--azulclaro);
-  color: var(--preto);
-}
-
-button :hover {
-  color: var(--azulescuro);
-}
-
 body {
   background-color: var(--background-color);
 }
@@ -137,7 +121,7 @@ footer {
   padding-top: 5px;
   text-align: center;
   color: var(--preto);
-  background-color: var(--azulescuro);
+  background-color: var(--background-color);
 }
 
 .main-information, .main-performance, .main-contributions, .main-education {
