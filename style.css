@@ -135,10 +135,16 @@ h5 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-p {
+.texto {
   color: var(--azulescuro);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 15px;
   font-weight: 300px;
+}
+
+aside {
+   height: 100vh;
+   width: 40vw;
+   background-image: url(video\ energia\ solar.mp4);
 }
 
