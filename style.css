@@ -137,7 +137,7 @@ h5 {
 }
 
 .texto {
-  color: var(--azulescuro);
+  color: var(--branco);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
   font-weight: 300px;
@@ -145,6 +145,7 @@ h5 {
 
 .container__imagens {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
 }
 
@@ -159,4 +160,3 @@ h5 {
   height: 33,3px;
   border-radius: 5cm;
 }
-
