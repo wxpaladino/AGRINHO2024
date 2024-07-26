@@ -135,6 +135,7 @@ h5 {
   color: var(--preto);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
+  margin: 0.5em 2em;
 }
 
 .texto {
@@ -146,7 +147,9 @@ h5 {
 
 .container__imagens {
   display: flex;
-  align-items: center;
+  justify-content: center;
+  padding: 2em;
+  margin: 2em 0.5em;
 }
 
 .imagem-gráfico {
