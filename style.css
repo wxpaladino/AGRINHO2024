@@ -146,7 +146,6 @@ h5 {
 
 .container__imagens {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
 }
 
