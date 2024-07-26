@@ -7,6 +7,7 @@
   --preto: #1f1f1f;
   --amarelo: #e8c741;
   --azulclaro: #709ad1;
+  --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
 }
 
 h1{
@@ -126,7 +127,7 @@ footer {
 
 .main-information, .main-performance, .main-contributions, .main-education {
   height: calc(100vh - 70px);
-  background-color: var(--azulclaro);
+  background-color: var(--azul-degrade);
 }
 
 h5 {
