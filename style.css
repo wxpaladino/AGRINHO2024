@@ -7,7 +7,6 @@
   --preto: #1f1f1f;
   --amarelo: #e8c741;
   --azulclaro: #709ad1;
-  --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
 }
 
 h1{
@@ -115,19 +114,9 @@ a {
   background: center / cover no-repeat url("img/imagem\ de\ fundo\ inicial.jpeg");
 }
 
-footer {
-  width: 100%;
-  font-size: 1vw;
-  flex-shrink: 0;
-  padding-top: 5px;
-  text-align: center;
-  color: var(--preto);
-  background-color: var(--background-color);
-}
-
 .main-information, .main-performance, .main-contributions, .main-education {
   height: calc(100vh - 70px);
-  background-color: var(--azul-degrade);
+  background-color: var(--azulclaro);
 }
 
 h5 {
@@ -143,6 +132,16 @@ h5 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
   font-weight: 300px;
+}
+
+footer {
+  width: 100%;
+  font-size: 1vw;
+  flex-shrink: 0;
+  padding-top: 5px;
+  text-align: center;
+  color: var(--preto);
+  background-color: var(--background-color);
 }
 
 .container__imagens {
