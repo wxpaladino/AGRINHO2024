@@ -161,3 +161,14 @@ footer {
   margin: 2em 0.5em;
 }
 
+#quantidade-energia {
+  height: 40%;
+  width:40%
+}
+
+#evolução-energia {
+  height: 40%;
+  width: 40%;
+}
+
+
