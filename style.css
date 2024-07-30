@@ -142,7 +142,7 @@ footer {
   padding-top: 5px;
   text-align: center;
   color: var(--preto);
-  background-color: var(--background-color);
+  background-color: var(--ciano);
 }
 
 .photo-center {
@@ -192,4 +192,10 @@ footer {
   width: 40%;
 }
 
+aside {
+  width: 15%;
+  height: 100%;
+  float: right;
+  position: fixed;
+}
 
