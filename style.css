@@ -135,6 +135,7 @@ h5 {
   font-size: 20px;
   font-weight: 300px;
   padding: 0px 6px;
+  text-align: center;
 }
 
 footer {
@@ -194,14 +195,6 @@ footer {
   width: 40%;
 }
 
-aside {
-  width: 15%;
-  height: 100%;
-  float: left;
-  position: relative;
-  top: 0%;
-}
-
 @media screen and (min-width: 1024px) {
   /* Estilos para tablets */
 }
@@ -219,3 +212,27 @@ text-align: center;
 color: var(--preto);
 background-color: var(--ciano);
 }
+
+.titulo-contributions {
+  margin: 0.5em 2em;
+  font-size: 20px;
+  color: var(--preto);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.texto-contributions {
+  color: var(--branco);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  font-weight: 300px;
+  padding: 0px 6px;
+}
+
+.item-contributions {
+  color: var(--preto);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  padding: 0px 3px;
+}
+
+
