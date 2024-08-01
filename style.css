@@ -228,7 +228,7 @@ background-color: var(--ciano);
   font-size: 17px;
   font-weight: 300px;
   padding: 0px 6px;
-  margin-left: 2px;
+  margin-left: 10px;
 }
 
 .lista-contributions {
@@ -240,17 +240,13 @@ background-color: var(--ciano);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
   padding: 0px 3px;
-  margin-right: 2px;
+  margin-left: 10px;
 }
 
 .aside {
-  float: right;
-  height: 100%;
-  width: 10%;
-}
-
-.video-contributions {
-  height: 100%;
   width: 15%;
-  object-fit: cover;
+  height: 93%;
+  position: fixed;
+  top: 0;
+  right: 0%;
 }
