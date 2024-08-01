@@ -116,7 +116,13 @@ a {
   background: center / cover no-repeat url("img/imagem\ de\ fundo\ inicial.jpeg");
 }
 
- .main-information, .main-performance, .main-contributions, .main-education {
+.main-information {
+  width: 100%;
+  height: 150%;
+  background-color: var(--azulclaro);
+}
+
+.main-performance, .main-contributions, .main-education {
   width: 100%;
   height: 160vh;
   background-color: var(--azulclaro);
@@ -156,17 +162,17 @@ footer {
 
 #placas-solares1 {
   height: 20%;
-  width: 20%;
+  width: 30%;
 } 
 
 #pessoa {
   height: 20%;
-  width: 20%;
+  width: 30%;
 }
 
 #placas-solares2 {
   height: 20%;
-  width: 20%;
+  width: 30%;
 }
 
 #economia {
