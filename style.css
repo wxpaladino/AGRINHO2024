@@ -117,7 +117,7 @@ a {
 }
 
  .main-information, .main-performance, .main-contributions, .main-education {
-  height: calc(100vh - 40px);
+  height: calc(100vh - 100px);
   background-color: var(--azulclaro);
 }
 
