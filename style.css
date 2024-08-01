@@ -243,11 +243,14 @@ background-color: var(--ciano);
   margin-right: 2px;
 }
 
-video-aside {
-
+.aside {
+  float: right;
+  height: 100%;
+  width: 10%;
 }
 
-video-aside video {
-  
+.video-contributions {
+  height: 100%;
+  width: 15%;
+  object-fit: cover;
 }
-
