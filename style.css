@@ -117,7 +117,7 @@ a {
 
 .main-information {
   width: 100%;
-  height: 250%;
+  height: 280%;
   background-color: var(--azulclaro);
 }
 
@@ -185,7 +185,6 @@ footer {
 
 .titulo-imagens {
   color: var(--azulescuro);
-  background-color: var(--background-color);
   text-align: center;
   font-size: 20px;
   margin-right: 5px;
