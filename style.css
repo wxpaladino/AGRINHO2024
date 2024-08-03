@@ -125,7 +125,7 @@ a {
 
 .main-information {
   width: 100%;
-  height: 180%;
+  height: 220%;
   background-color: var(--azulclaro);
 }
 
@@ -185,11 +185,6 @@ footer {
 #economia {
   height: 20%;
   width: 50%;
-}
-
-#investimento {
-  height: 20%;
-  width: 20%;
 }
 
 .container__imagens {
