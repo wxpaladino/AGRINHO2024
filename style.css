@@ -13,21 +13,20 @@ h1{
  color: var(--verde);
  text-align: center;
  font-family: "Playwrite HR", cursive;
- font-size: 80px;
+ font-size: 50px;
 }
 
 h3 {
  color: var(--azulescuro);
  text-align: center;
- font-size: 40px;
-
+ font-size: 30px;
 }
 
-h4 {
-  color: var(--preto);
+.english {
+  color: var(--ciano);
   text-align: center;
-  font-family: inherit;
-  font-size: 35px;
+  font-size: 30px;
+  font-style: italic;
 }
 
 body {
@@ -142,7 +141,6 @@ h5 {
   font-size: 20px;
   font-weight: 300px;
   padding: 0px 6px;
-  text-align: center;
 }
 
 footer {
@@ -161,23 +159,24 @@ footer {
 }
 
 #placas-solares1 {
-  height: 20%;
-  width: 30%;
+  height: 15%;
+  width: 50%;
+  padding: 0px 4px;
 } 
 
 #pessoa {
   height: 20%;
-  width: 30%;
+  width: 50%;
 }
 
 #placas-solares2 {
   height: 20%;
-  width: 30%;
+  width: 50%;
 }
 
 #economia {
   height: 20%;
-  width: 20%;
+  width: 50%;
 }
 
 #investimento {
@@ -211,7 +210,7 @@ footer {
 }
 
 .rodapé {
-height: 7%;
+height: 9%;
 width: 100%;
 font-size: 1vw;
 flex-shrink: 0;
@@ -226,16 +225,6 @@ background-color: var(--ciano);
   font-size: 20px;
   color: var(--preto);
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-.texto-contributions {
-  text-align: center;
-  color: var(--branco);
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 17px;
-  font-weight: 300px;
-  padding: 0px 6px;
-  margin-left: 10px;
 }
 
 .lista-contributions {
@@ -263,6 +252,7 @@ background-color: var(--ciano);
 
 .container__button {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 10px; 
     padding: 20px;
