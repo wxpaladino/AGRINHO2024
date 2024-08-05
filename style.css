@@ -251,7 +251,6 @@ background-color: var(--ciano);
     gap: 20px; 
     width: 100%;
     height: 10%;
-    background-color: var(--background-color);
 }
 
 .back {
