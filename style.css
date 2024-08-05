@@ -117,7 +117,7 @@ a {
 
 .main-information {
   width: 100%;
-  height: 260%;
+  height: 270%;
   background-color: var(--azulclaro);
 }
 
@@ -129,6 +129,7 @@ a {
 
 .main-education {
   height: calc(100vh - 70px);
+  background-color: var(--azulclaro);
 }
 
 
@@ -186,20 +187,9 @@ footer {
 
 .container__imagens {
  display: flex;
+ flex-direction: column;
  flex-wrap: wrap;
  justify-content: space-around;
-}
-
-.titulo-imagens {
-  display: inline-flex;
-}
-
-.titulo-imagens {
-  padding-top: 5px;
-  color: var(--verde);
-  text-align: center;
-  font-size: 20px;
-  margin-right: 5px;
 }
 
 #quantidade-energia {
@@ -212,7 +202,7 @@ footer {
 #evolução-energia {
   margin-left: 10px;
   padding-top: 5px;
-  height: 25%;
+  height: 35%;
   width: 25%;
 }
 
@@ -265,7 +255,7 @@ background-color: var(--ciano);
 }
 
 .back {
-  width: 100%;
+  width: 110%;
   height: 40%;
   background-color: yellowgreen;
   background-size: cover;
@@ -276,7 +266,7 @@ background-color: var(--ciano);
 }
 
 .next {
-  width: 100%;
+  width: 110%;
   height: 40%;
   background-color: yellowgreen;
   background-size: contain;
@@ -293,7 +283,7 @@ background-color: var(--ciano);
 
 .container__frase {
   width: 100%;
-  height: 10%;
+  height: 20%;
   justify-content: center;
   background-color: var(--amarelo);
   padding-top: 15px;
@@ -309,6 +299,7 @@ background-color: var(--ciano);
 }
 
 .photo-contribution {
+  justify-content: center;
   display: flex;
   flex-direction: column;
 }
@@ -320,6 +311,7 @@ background-color: var(--ciano);
   font-size: 12px;
   text-align: justify;
 }
+
 
 
 
