@@ -7,6 +7,7 @@
   --preto: #1f1f1f;
   --amarelo: #e8c741;
   --azulclaro: #709ad1;
+  --verdeamarelo: #9fd419;
 }
 
 h1{
@@ -207,11 +208,25 @@ footer {
 }
 
 @media screen and (min-width: 1024px) {
-  /* Estilos para tablets */
+  h1 {
+    font-size: 40px;
+  }
+
+  .hero {
+     height: 100%;
+     width: 60%;
+  }
 }
 
 @media screen and (min-width:844px) {
-  /*Estilos para celular*/
+  h1 {
+    font-size: 30px ;
+  }
+
+  .hero {
+    height: 100%;
+    width: 50%
+  }
 }
 
 .rodapé {
@@ -256,7 +271,7 @@ background-color: var(--ciano);
 .back {
   width: 110%;
   height: 40%;
-  background-color: yellowgreen;
+  background-color: var(--verdeamarelo);
   background-size: cover;
   font-family: "Pixelify Sans", sans-serif;
   color: var(--preto);
@@ -267,7 +282,7 @@ background-color: var(--ciano);
 .next {
   width: 110%;
   height: 40%;
-  background-color: yellowgreen;
+  background-color: var(--verdeamarelo);
   background-size: contain;
   font-family: "Pixelify Sans", sans-serif;
   color: var(--preto);
@@ -307,7 +322,7 @@ background-color: var(--ciano);
   top:0;
   font-style: italic;
   color: var(--preto);
-  font-size: 12px;
+  font-size: 14px;
   text-align: justify;
 }
 
