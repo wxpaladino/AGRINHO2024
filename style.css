@@ -209,29 +209,6 @@ footer {
   width: 16%;
 }
 
-@media only screen and (min-width: 768px) {
- h1 {
-  font-size: 40px;
- }
-
- .hero {
-  height: 100%;
-  width: 50%;
- }
-}
-
-@media only screen and (min-width:320px) {
- h1 {
-  font-size: 30px;
- }
-
-
- .hero{
-  height: 100%;
-  width: 40%;
- }
-}
-
 .rodapé {
 height: 9%;
 width: 100%;
