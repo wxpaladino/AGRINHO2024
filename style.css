@@ -170,7 +170,7 @@ footer {
 #placas-solares1 {
   height: 15%;
   width: 50%;
-  padding-top: 5px;
+  padding-top: 4px;
 } 
 
 #pessoa {
@@ -239,7 +239,18 @@ background-color: var(--ciano);
   margin-left: 10px;
 }
 
+.container__buttoninformation {
+  background-color: var(--background-color);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px; 
+  width: 100%;
+  height: 10%;
+}
+
 .container__button {
+  background-color: var(--azulclaro);
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -277,7 +288,7 @@ background-color: var(--ciano);
 
 .container__frase {
   width: 100%;
-  height: 17%;
+  height: 14%;
   justify-content: center;
   background-color: var(--verdeamarelo);
   padding-top: 15px;
@@ -306,6 +317,22 @@ background-color: var(--ciano);
   font-size: 18px;
   text-align: justify;
 }
+
+.form-box {
+
+}
+
+.form-titulo {
+  text-align: justify;
+  font-size: 30px;
+}
+
+.form-cadastro {
+  
+}
+
+
+
 
 
 
