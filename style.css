@@ -306,12 +306,9 @@ background-color: var(--ciano);
 }
 
 .form-box {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: rgba(255, 255, 255, 0.4);
     padding: 30px 40px;
-    width: 50%;
+    width: 100%;
     border-radius: 0 20px 20px 0;
 }
 
