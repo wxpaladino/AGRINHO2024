@@ -124,12 +124,13 @@ a {
 
 .main-performance, .main-contributions {
   width: 100%;
-  height: 120vh;
+  height: 110vh;
   background-color: var(--azulclaro);
 }
 
 .main-education {
-  height: calc(100vh - 70px);
+  width: 100%;
+  height: 100%;
   background-color: var(--azulclaro);
 }
 
@@ -352,10 +353,9 @@ form .input-group input{
   padding: 15px;
   font-size: 15px;
   color: var(--preto);
-  transition: all 0.4s ease;
 }
 
-form .input-group form-cadastro {
+.send {
   width: 100%;
   height: 47px;
   background: var(--background-color);
