@@ -171,7 +171,7 @@ footer {
 #placas-solares1 {
   height: 15%;
   width: 50%;
-  padding-top: 4px;
+  padding-top: 6px;
 } 
 
 #pessoa {
@@ -187,11 +187,12 @@ footer {
 #economia {
   height: 20%;
   width: 50%;
+  padding-top: 6px;
 }
 
 #quantidade-energia {
   margin-left: 10px;
-  padding-top: 5px;
+  padding-top: 7px;
   height: 60%;
   width: 60%;
 }
@@ -228,20 +229,22 @@ background-color: var(--ciano);
 
 .container__buttoninformation {
   background-color: var(--background-color);
+  padding-top: 5px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 20px; 
+  gap: 30px; 
   width: 100%;
   height: 10%;
 }
 
 .container__button {
-  background-color: var(--azulclaro);
+    background-color: var(--azulclaro);
+    padding-top: 5px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 20px; 
+    gap: 30px; 
     width: 100%;
     height: 10%;
 }
@@ -307,8 +310,10 @@ background-color: var(--ciano);
 
 .form-box {
     background-color: rgba(255, 255, 255, 0.4);
+    margin-right: 40px;
     padding: 30px 40px;
-    width: 100%;
+    width: 70%;
+    height: 60%;
     border-radius: 0 20px 20px 0;
 }
 
