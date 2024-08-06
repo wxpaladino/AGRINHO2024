@@ -210,25 +210,11 @@ footer {
 }
 
 @media screen and (min-width: 1024px) {
-  h1 {
-    font-size: 40px;
-  }
 
-  .hero {
-     height: 100%;
-     width: 60%;
-  }
 }
 
 @media screen and (min-width:844px) {
-  h1 {
-    font-size: 30px ;
-  }
-
-  .hero {
-    height: 100%;
-    width: 50%
-  }
+ 
 }
 
 .rodapé {
