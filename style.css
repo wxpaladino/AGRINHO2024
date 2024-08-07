@@ -313,8 +313,8 @@ background-color: var(--ciano);
     margin-right: 40px;
     padding: 30px 40px;
     width: 70%;
-    height: 60%;
-    border-radius: 0 20px 20px 0;
+    height: 80%;
+    border-radius: 20px 20px 20px 20px;
 }
 
 .form-titulo {
@@ -360,7 +360,7 @@ form .input-group input{
 }
 
 .send {
-  width: 100%;
+  width: 70%;
   height: 47px;
   background: var(--background-color);
   border-radius: 20px;
