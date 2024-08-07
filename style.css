@@ -225,18 +225,18 @@ background-color: var(--ciano);
 
 .container__buttoninformation {
   background-color: var(--background-color);
-  padding-top: 5px;
   display: flex;
+  align-items: center;
   justify-content: center;
+  padding-top: 5px;
   flex-wrap: wrap;
-  gap: 30px; 
+  gap: 10%; 
   width: 100%;
   height: 10%;
 }
 
 .container__button {
     background-color: var(--azulclaro);
-    margin-left: 40px;
     padding-top: 5%;
     display: flex;
     justify-content: center;
@@ -381,11 +381,15 @@ h1 {
 }
 
 h3{
-  font-size: 15px;
+  font-size: 20px;
+}
+
+.english {
+  font-size: 20px;
 }
 
 footer {
-  height: 20%;
+  height: 7%;
 }
 
 .container__botao {
@@ -394,7 +398,7 @@ footer {
 
 .hero {
   height: 100%;
-  width: 50%;
+  width: 100%;
   background: center / cover no-repeat url("img/imagem\ de\ fundo\ inicial.jpeg");
 }
 
@@ -404,11 +408,11 @@ footer {
 
 .main-information {
   width: 100%;
-  height: 220%;
+  height: 190%;
 
 }
 .main-performance {
-  height: 90%;
+  height: 100%;
 }
 
 .form-box {
@@ -422,7 +426,11 @@ footer {
 }
 
 .main-education {
-  width: 70%;
+  width: 100%;
+}
+
+.descriçao-imagem {
+  font-size: 14px;
 }
 }
 
