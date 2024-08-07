@@ -8,6 +8,7 @@
   --amarelo: #e8c741;
   --azulclaro: #709ad1;
   --verdeamarelo: #9fd419;
+  --azulcabeçalho: #12a3e6;
 }
 
 h1{
@@ -61,7 +62,7 @@ a {
 }
 
 .cabeçalho {
-  background-color: var(--azulescuro);
+  background-color: var(--azulcabeçalho);
   display: flex;
   justify-content: space-between;
   align-items: center;
