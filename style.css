@@ -407,7 +407,7 @@ footer {
 }
 
 .rodapé {
-  height: 7%;
+  height: 10%;
   font-size: 15px;
 }
 
@@ -417,11 +417,11 @@ footer {
 
 }
 .main-performance {
-  height: 110%;
+  height: 117%;
 }
 
 .main-contributions {
-  height: 120%;
+  height: 130%;
 }
 
 .form-box {
@@ -437,7 +437,7 @@ footer {
 
 .main-education {
   height: 50%;
-  width: 100%;
+  width: 110%;
 }
 
 .descriçao-imagem {
