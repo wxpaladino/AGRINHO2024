@@ -114,11 +114,17 @@ a {
 
 .main-information {
   width: 100%;
-  height: 265%;
+  height: 275%;
   background-color: var(--azulclaro);
 }
 
-.main-performance, .main-contributions {
+.main-performance {
+  width: 100%;
+  height: 125%;
+  background-color: var(--azulclaro);
+}
+
+.main-contributions {
   width: 100%;
   height: 113%;
   background-color: var(--azulclaro);
