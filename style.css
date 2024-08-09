@@ -413,15 +413,17 @@ footer {
 
 .main-information {
   width: 100%;
-  height: 170%;
+  height: 120%;
 
 }
 .main-performance {
-  height: 117%;
+  width: 100%;
+  height: 132%;
 }
 
 .main-contributions {
-  height: 130%;
+  width: 100%;
+  height: 150%;
 }
 
 .form-box {
@@ -436,8 +438,8 @@ footer {
 }
 
 .main-education {
-  height: 50%;
-  width: 110%;
+  height: 40%;
+  width: 100%;
 }
 
 .descriçao-imagem {
@@ -449,7 +451,7 @@ footer {
 @media (max-width:768px) {
   .main-information {
     width: 100%;
-    height: 200%;
+    height: 170%;
   }
 
   .rodapé {
@@ -468,12 +470,12 @@ footer {
 
   .main-contributions {
     width: 100%;
-    height: 60%;
+    height: 120%;
   }
 
   .main-education {
     width: 100%;
-    height: 70%;
+    height: 60%;
   }
 }
 
