@@ -398,7 +398,7 @@ h3{
 }
 
 footer {
-  height: 10%;
+  height: 15%;
   font-size: 15px;
 }
 
@@ -419,12 +419,12 @@ footer {
 
 .main-information {
   width: 100%;
-  height: 120%;
+  height: 127%;
 
 }
 .main-performance {
   width: 100%;
-  height: 160%;
+  height: 180%;
 }
 
 .main-contributions {
